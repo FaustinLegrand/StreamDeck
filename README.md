@@ -33,8 +33,8 @@ Avant d'installer et d'utiliser cette application, assurez-vous d'avoir les él�
 1. **Clonez le dépôt**
 
    ```bash
-   git clone https://github.com/votreutilisateur/streamdeck-web-controller.git
-   cd streamdeck-web-controller
+   git clone https://github.com/faustinlegrand/StreamDeck.git
+   cd StreamDeck
    ```
 2. **Installez les dépendances**
 
