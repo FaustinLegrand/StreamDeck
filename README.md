@@ -1,8 +1,8 @@
-# StreamDeck Web Controller
+# StreamDeck
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-StreamDeck Web Controller est une application web qui permet de connecter et de configurer un StreamDeck pour l'utiliser comme une télécommande personnalisée. Grâce à cette application, vous pouvez configurer des fonctionnalités comme un soundboard, des raccourcis, des commandes personnalisées, et bien plus encore, directement depuis votre navigateur.
+StreamDeck est une application web qui permet de connecter et de configurer un StreamDeck pour l'utiliser comme une télécommande personnalisée. Grâce à cette application, vous pouvez configurer des fonctionnalités comme un soundboard, des raccourcis, des commandes personnalisées, et bien plus encore, directement depuis votre navigateur.
 
 ## Table des matières
 
